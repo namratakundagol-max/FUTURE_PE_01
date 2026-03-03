@@ -1,28 +1,43 @@
-Act as a professional website copywriter specializing in conversion-focused website content.
+Act as a professional conversion-focused website copywriter specializing in fitness and wellness brands.
 
-Generate homepage content for a modern fitness studio called "FitLife Studio" located in Bangalore.
+Create complete homepage content for a modern fitness studio called "FitLife Studio" located in Bangalore.
 
 Target Audience:
-Working professionals and college students aged 18–35 with busy schedules who want weight loss, muscle gain, and improved fitness.
+Working professionals and college students aged 18–35 who struggle with busy schedules, low energy, and lack of consistency but want weight loss, muscle gain, and improved overall fitness.
+
+Business Objective:
+- Increase membership sign-ups
+- Encourage free trial bookings
+- Position the studio as structured, expert-led, and result-driven
 
 Tone:
-Energetic, motivational, professional, and trustworthy.
+Energetic, motivational, professional, and trustworthy — but natural and human, not robotic.
 
-Requirements:
-1. Hero Section:
-   - Powerful headline
-   - Supporting subheading
-   - Clear Call-To-Action button text
+Include the following sections:
 
-2. About Section (150–180 words):
-   - Introduce the studio
-   - Highlight expertise and personalized training
-   - Focus on solving busy lifestyle problems
+1. Hero Section
+- Powerful, emotionally engaging headline
+- Supporting subheading that addresses busy lifestyle challenges
+- Strong, action-oriented Call-To-Action button text
 
-3. Why Choose Us:
-   - 4 bullet points emphasizing benefits and differentiation
+2. About Section (150–180 words)
+- Introduce FitLife Studio
+- Highlight certified trainers and personalized programs
+- Emphasize solutions for busy professionals and students
+- Show how the studio helps maintain consistency
 
-4. Strong Final CTA:
-   - Encourage booking a free trial session
+3. Why Choose Us
+Provide 4 benefit-driven bullet points focusing on:
+- Structured programs
+- Expert coaching
+- Flexible timings
+- Measurable progress tracking
 
-Ensure the content is website-ready, persuasive, and simple to understand.
+4. Strong Final Call-To-Action Section
+Encourage visitors to book a free trial session.
+
+Important:
+- Avoid unrealistic claims like “guaranteed results.”
+- Keep formatting clean and website-ready.
+- Subtly optimize language for keywords like “Fitness Studio in Bangalore” and “Personal Training in Bangalore.”
+- Keep sentences clear and persuasive.
