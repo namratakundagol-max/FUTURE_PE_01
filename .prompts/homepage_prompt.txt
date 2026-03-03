@@ -1,0 +1,28 @@
+Act as a professional website copywriter specializing in conversion-focused website content.
+
+Generate homepage content for a modern fitness studio called "FitLife Studio" located in Bangalore.
+
+Target Audience:
+Working professionals and college students aged 18–35 with busy schedules who want weight loss, muscle gain, and improved fitness.
+
+Tone:
+Energetic, motivational, professional, and trustworthy.
+
+Requirements:
+1. Hero Section:
+   - Powerful headline
+   - Supporting subheading
+   - Clear Call-To-Action button text
+
+2. About Section (150–180 words):
+   - Introduce the studio
+   - Highlight expertise and personalized training
+   - Focus on solving busy lifestyle problems
+
+3. Why Choose Us:
+   - 4 bullet points emphasizing benefits and differentiation
+
+4. Strong Final CTA:
+   - Encourage booking a free trial session
+
+Ensure the content is website-ready, persuasive, and simple to understand.
