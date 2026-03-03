@@ -1,0 +1,83 @@
+Act as a professional conversion-focused website copywriter and marketing strategist specializing in fitness and wellness brands.
+
+Generate complete service page content for a modern fitness studio called "FitLife Studio" located in Bangalore.
+
+Target Audience:
+Working professionals and college students aged 18–35 who struggle with busy schedules, low energy, and lack of consistency but want weight loss, muscle gain, and improved overall fitness.
+
+Business Objectives:
+- Increase membership sign-ups
+- Encourage free trial bookings
+- Position FitLife Studio as structured, expert-led, and result-driven
+- Appeal specifically to professionals and students in Bangalore
+
+Tone:
+Professional, motivational, trustworthy, and persuasive — but natural and human (not robotic).
+
+Include the following sections in clean, website-ready formatting:
+
+1. Services Section
+Include the following services:
+- Strength & Muscle Building
+- Fat Loss & Transformation
+- Functional Fitness
+- Personal Training
+- Group Training Sessions
+
+For each service:
+- Provide a 2–3 line description
+- Focus on benefits and real outcomes
+- Emphasize structured training and expert guidance
+
+2. Pricing Comparison Section
+Create three membership plans:
+- Basic Fit (Best for Beginners)
+- Pro Transformation (Most Popular)
+- Elite Coaching (For Advanced Goals)
+
+For each plan include:
+- Best for
+- What’s included
+- A strong call-to-action line
+
+Do not include pricing numbers.
+
+3. How It Works Section
+Explain the transformation journey in 4 simple steps:
+- Free Consultation
+- Personalized Plan
+- Guided Training
+- Track & Transform
+
+Keep this section clear and motivating.
+
+4. Frequently Asked Questions (FAQ)
+Create 5 realistic FAQs covering:
+- Beginners joining
+- Flexible timings
+- Expected timeline for results
+- Diet plans
+- Free trial availability
+
+5. High-Converting Landing Page Version (For Ads)
+Create a shorter, emotionally powerful version that:
+- Addresses busy schedule problems
+- Highlights transformation benefits
+- Includes a strong free trial call-to-action
+- Avoids unrealistic claims like “guaranteed results”
+
+6. WhatsApp Auto-Reply Script
+Write two automated responses:
+- Initial greeting with service selection options
+- Follow-up asking for fitness goal, preferred time slot, and experience level
+
+Important Instructions:
+- Avoid excessive emojis.
+- Avoid unrealistic guarantees.
+- Keep formatting clean and professional.
+- Subtly optimize language for keywords like:
+  “Fitness Studio in Bangalore”
+  “Personal Training in Bangalore”
+  “Gym for Working Professionals”
+  “Gym for College Students”
+- Ensure the content is persuasive, clear, and website-ready.
